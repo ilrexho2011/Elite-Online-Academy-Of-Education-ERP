@@ -1,6 +1,3 @@
-# Edukimi-online
-Realizoni edukimin tuaj përmes platformës më të mirë...
-
 Automate the creation and processing of exams, in „Elite Online Academy“ using Javascript, Node.js, SAP UI5 and SAP Integration Suite, and databases (SQL and S4/Hana)
 - iFlow creation in SAP Cloud Integration to adjust and transmit the exams data
 - Create a web API in SAP Fiori (UI5) to start the process
