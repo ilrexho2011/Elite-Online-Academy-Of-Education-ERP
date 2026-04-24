@@ -1,4 +1,7 @@
-# Elite Online Academy - Automate the creation and processing of exams, in „Elite Online Academy“ using Javascript, Node.js, SAP UI5 and SAP Integration Suite, and databases (SQL and S4/Hana)
+# Elite Online Academy - Automate the education & creation and processing of exams
+
+<img width="1319" height="741" alt="image" src="https://github.com/user-attachments/assets/701fbb54-108d-42bb-84c2-83eb7b66d966" />
+
 - iFlow creation in SAP Cloud Integration to adjust and transmit the exams data
 - Create a web API in SAP Fiori (UI5) to start the process
 - Build API proxy for REST API from API provider, 
