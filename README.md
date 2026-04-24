@@ -1,4 +1,4 @@
-# Elite Online Academy - Automate the education & creation and processing of exams
+# Elite Online Academy - Automate the education & knowledge testing
 
 <img width="1319" height="741" alt="image" src="https://github.com/user-attachments/assets/701fbb54-108d-42bb-84c2-83eb7b66d966" />
 
